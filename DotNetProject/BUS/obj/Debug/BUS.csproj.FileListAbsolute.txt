@@ -1,0 +1,33 @@
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\BUS.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\BUS.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\DAL.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\DTO.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\DAL.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\bin\Debug\DTO.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\obj\Debug\BUS.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\BUS\obj\Debug\BUS.pdb
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\BUS.dll
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\BUS.pdb
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\DAL.dll
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\DTO.dll
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\DAL.pdb
+C:\Users\Quang\Downloads\DotNetProject\BUS\bin\Debug\DTO.pdb
+C:\Users\Quang\Downloads\DotNetProject\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\DotNetProject\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\DotNetProject\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Quang\Downloads\DotNetProject\BUS\obj\Debug\BUS.dll
+C:\Users\Quang\Downloads\DotNetProject\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\BUS\obj\Debug\BUS.pdb

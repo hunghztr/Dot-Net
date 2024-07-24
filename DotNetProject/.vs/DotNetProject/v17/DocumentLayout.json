@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3024852B-A6AF-486F-A9EC-D5E3BAA56F9F}|DTO\\DTO.csproj|c:\\users\\admin\\downloads\\project\\dotnetproject\\dto\\imanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024852B-A6AF-486F-A9EC-D5E3BAA56F9F}|DTO\\DTO.csproj|solutionrelative:dto\\imanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB71176-3F97-409E-965E-7DCA5BD1F7E7}|BUS\\BUS.csproj|c:\\users\\admin\\downloads\\project\\dotnetproject\\bus\\bus_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB71176-3F97-409E-965E-7DCA5BD1F7E7}|BUS\\BUS.csproj|solutionrelative:bus\\bus_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\gui\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|solutionrelative:gui\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\gui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|solutionrelative:gui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\gui\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|solutionrelative:gui\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\gui\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{D72F7DFA-DDCE-420F-8EDC-D61E33C7AF21}|GUI\\GUI.csproj|solutionrelative:gui\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 130,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\DTO\\IManagement.cs",
+              "RelativeDocumentMoniker": "DTO\\IManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\DTO\\IManagement.cs",
+              "RelativeToolTip": "DTO\\IManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:24:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\HomeForm.cs",
+              "RelativeDocumentMoniker": "GUI\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\HomeForm.cs [Design]",
+              "RelativeToolTip": "GUI\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:20:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "GUI\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\StatisticsForm.cs",
+              "RelativeToolTip": "GUI\\StatisticsForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:19:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "GUI\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "GUI\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:19:25.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\GUI\\Report1.rdlc",
+              "RelativeDocumentMoniker": "GUI\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Quang\\Downloads\\PROJECT\\DotNetProject\\GUI\\Report1.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Quang\\Downloads\\PROJECT\\DotNetProject\\GUI\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T05:19:10.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BUS_System.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\BUS\\BUS_System.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_System.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PROJECT\\DotNetProject\\BUS\\BUS_System.cs",
+              "RelativeToolTip": "BUS\\BUS_System.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAiwO4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:14:56.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

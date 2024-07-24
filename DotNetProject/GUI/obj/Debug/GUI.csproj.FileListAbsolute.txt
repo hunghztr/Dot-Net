@@ -1,0 +1,363 @@
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\GUI.exe.config
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\GUI.exe
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\GUI.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\BUS.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\BUS.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.SubjectForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.exe
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\DAL.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\DAL.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.CourseForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.TeacherForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\DTO.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\DTO.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherAdd.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherUpdate.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherRemove.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseAdd.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseUpdate.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseRemove.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.StudentForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentAdd.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentUpdate.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentRemove.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListAdd.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.GradeListForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListUpdate.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListRemove.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.HomeForm.resources
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\EnvDTE.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\stdole.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\GUI\obj\Debug\GUI.StatisticsForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\GUI.exe
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\GUI.pdb
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\BUS.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\DTO.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\DAL.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\stdole.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\BUS.pdb
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\DTO.pdb
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\DAL.pdb
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseAdd.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseRemove.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseUpdate.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.CourseForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListAdd.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListRemove.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListUpdate.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.GradeListForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.HomeForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.StatisticsForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentAdd.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentRemove.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentUpdate.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.StudentForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.SubjectForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherAdd.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherRemove.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherUpdate.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.TeacherForm.resources
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.exe
+C:\Users\Quang\Downloads\DotNetProject\GUI\obj\Debug\GUI.pdb
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quang\Downloads\DotNetProject\GUI\bin\Debug\Report1.rdlc
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Report1.rdlc
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.exe
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.pdb
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\BUS.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DTO.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DAL.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\stdole.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\BUS.pdb
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DTO.pdb
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DAL.pdb
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseAdd.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseRemove.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseUpdate.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListAdd.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListRemove.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListUpdate.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.HomeForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StatisticsForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentAdd.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentRemove.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentUpdate.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.SubjectForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherAdd.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherRemove.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherUpdate.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherForm.resources
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.exe
+C:\Users\Quang\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Report1.rdlc
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseAdd.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseRemove.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseDialog.CourseUpdate.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.CourseForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListAdd.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListRemove.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListDialog.GradeListUpdate.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.GradeListForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.HomeForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StatisticsForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentAdd.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentRemove.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentDialog.StudentUpdate.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.StudentForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.SubjectForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherAdd.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherRemove.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherDialog.TeacherUpdate.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.TeacherForm.resources
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\GUI\obj\Debug\GUI.pdb

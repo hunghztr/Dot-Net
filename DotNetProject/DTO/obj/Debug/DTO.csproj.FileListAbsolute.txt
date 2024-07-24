@@ -1,0 +1,18 @@
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\bin\Debug\DTO.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\bin\Debug\DTO.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\obj\Debug\DTO.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\DTO\obj\Debug\DTO.pdb
+C:\Users\Quang\Downloads\DotNetProject\DTO\bin\Debug\DTO.dll
+C:\Users\Quang\Downloads\DotNetProject\DTO\bin\Debug\DTO.pdb
+C:\Users\Quang\Downloads\DotNetProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\DotNetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\DotNetProject\DTO\obj\Debug\DTO.dll
+C:\Users\Quang\Downloads\DotNetProject\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,27 @@
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\bin\Debug\DAL.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\bin\Debug\DAL.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\bin\Debug\DTO.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\bin\Debug\DTO.pdb
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\obj\Debug\DAL.dll
+D:\Lập Trình\Lập trình .Net\DotNetProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Quang\Downloads\DotNetProject\DAL\bin\Debug\DAL.dll
+C:\Users\Quang\Downloads\DotNetProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Quang\Downloads\DotNetProject\DAL\bin\Debug\DTO.dll
+C:\Users\Quang\Downloads\DotNetProject\DAL\bin\Debug\DTO.pdb
+C:\Users\Quang\Downloads\DotNetProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Quang\Downloads\DotNetProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Downloads\DotNetProject\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Quang\Downloads\DotNetProject\DAL\obj\Debug\DAL.dll
+C:\Users\Quang\Downloads\DotNetProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\PROJECT\DotNetProject\DAL\obj\Debug\DAL.pdb
